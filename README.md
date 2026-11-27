@@ -1,6 +1,6 @@
-# opopile.github.io
+# xuyao-zhang.github.io
 
-Personal academic homepage and research blog of **Xuyao Zhang** (`BeiChen` / `opopile`), hosted on GitHub Pages at [https://opopile.github.io](https://opopile.github.io).
+Personal academic homepage and research blog of **Xuyao Zhang**, hosted on GitHub Pages at [https://xuyao-zhang.github.io](https://xuyao-zhang.github.io).
 
 ## Structure
 
@@ -11,5 +11,5 @@ Personal academic homepage and research blog of **Xuyao Zhang** (`BeiChen` / `op
 
 ## Contact
 
-- Email: `zh.xuyao@gmail.com`
-- GitHub: [https://github.com/opopile](https://github.com/opopile)
+- Email: `xuyao.zhang@outlook.com`
+- GitHub: [https://github.com/xuyao-zhang](https://github.com/xuyao-zhang)
